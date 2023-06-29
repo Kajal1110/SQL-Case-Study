@@ -1,5 +1,5 @@
 # SQL-Case-Study
-Case Study by a Major Travel Company
+## Case Study by a Major Travel Company
 
 Overall, this case study has 4 Questions.
 
